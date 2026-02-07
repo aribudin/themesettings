@@ -1,0 +1,18 @@
+body.mce-content-body {
+    background: #22272e !important;
+    color: #e6edf3 !important;
+}
+
+body.mce-content-body p,
+body.mce-content-body h1,
+body.mce-content-body h2,
+body.mce-content-body h3,
+body.mce-content-body h4,
+body.mce-content-body h5,
+body.mce-content-body h6 {
+    color: #e6edf3 !important;
+}
+
+body.mce-content-body a {
+    color: #539bf5 !important;
+}
