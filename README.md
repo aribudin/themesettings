@@ -20,6 +20,14 @@ A modern, lightweight WordPress theme settings framework that makes it easy to c
 - WordPress 5.0 or higher
 - PHP 7.4 or higher
 
+## Clone Files
+
+* Clone the repository with the following command:
+
+```
+git clone https://github.com/aribudin/themesettings.git
+```
+
 ## 🚀 Installation
 
 ### 1. Upload to Your Theme
