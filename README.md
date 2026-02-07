@@ -2,7 +2,7 @@
 
 A modern, lightweight WordPress theme settings framework that makes it easy to create professional theme options with various field types. Features a beautiful admin interface with vertical and horizontal navbar layout.
 
-<img src="preview/tailmater-template.png" alt="Theme Settings">
+<img src="preview/themesettings.jpg" alt="Theme Settings">
 
 ## ✨ Features
 
@@ -471,7 +471,7 @@ $enable_search = ts_get_option('enable_search', true);
 
 To simplify the development process, WordPress starter themes are available. These themes include basic examples of using ThemeSettings within a WordPress theme.
 
-- 
+<img src="preview/free-themes.jpg" alt="Free Themes">
 
 ## 📚 Documentation
 
@@ -496,7 +496,7 @@ Upgrade to **Theme Settings Pro** for advanced features:
 - **⚡ Priority Support** - Direct assistance from developers
 - **🔄 Lifetime Updates** - Get all future updates included
 
-**[Learn more about Pro →](https://themesettings.com/pro)**
+**[Learn more about Pro →](https://themesettings.com)**
 
 ## 📄 License
 
