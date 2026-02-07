@@ -471,7 +471,7 @@ $enable_search = ts_get_option('enable_search', true);
 
 To simplify the development process, WordPress starter themes are available. These themes include basic examples of using ThemeSettings within a WordPress theme.
 
-<img src="free-themes.jpg" alt="Free Themes">
+<img src="free-themes.png" alt="Free Themes">
 
 ## 📚 Documentation
 
